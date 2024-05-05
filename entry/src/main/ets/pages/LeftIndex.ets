@@ -19,7 +19,6 @@ export default struct LeftIndex{
         this.topPic()
         //图标
         Grid(){
-          ForEach(this.itemArr,)
           ForEach(this.itemArr, (item:string) =>{
             GridItem(){
               MenuGridItem(
